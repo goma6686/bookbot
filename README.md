@@ -1,2 +1,2 @@
 # BookBot
-Program prints how many times each character occurs in a document
+Program prints a report of how many times each character occurs in a document
